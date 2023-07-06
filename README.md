@@ -1,4 +1,4 @@
-### *・°☆ Perfil @lisbatata*・°☆. *
+<h1>*・°☆ Perfil @lisbatata*・°☆. *</h1>
 
 <div>
    <a href="https://github.com/alissaaaa7">
@@ -15,12 +15,12 @@
  
  <br>
  
-  ### *・°☆ Social Media*・°☆ .*
+ <h1>*・°☆ Social Media*・°☆ .*</h1> 
  
 <div> 
   <a href="https://instagram.com/lisbatata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marianealissa203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/alissaaaa7/alissaaaa7/blob/output/github-contribution-grid-snake.svg)

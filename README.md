@@ -1,4 +1,4 @@
-<h1>☆ <i>Lis Batata *・°☆. *</i></h1>
+<center><h2><i>‧͙⁺.｡*ﾟ+.*.｡･༓☾ statistics ☽༓･.｡*ﾟ+.*.｡⁺‧͙</i></h2></center>
 
 <div>
    <a href="https://github.com/alissaaaa7">
@@ -18,7 +18,7 @@
  
  <br>
  
- <h2>☆<i> Social Media *・°☆ .*</i></h2> 
+ <h3>︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵</h3> 
  
 <div> 
   <a href="https://instagram.com/lisbatata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

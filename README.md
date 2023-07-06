@@ -1,4 +1,4 @@
-<h1><i>*・°☆ Perfil @lisbatata*・°☆. *</i></h1>
+<h1><i>*・°☆ Lis Batata *・°☆. *</i></h1>
 
 <div>
    <a href="https://github.com/alissaaaa7">

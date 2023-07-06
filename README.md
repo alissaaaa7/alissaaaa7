@@ -1,4 +1,4 @@
-<h1>*・°☆ Perfil @lisbatata*・°☆. *</h1>
+<h1><i>*・°☆ Perfil @lisbatata*・°☆. *</i></h1>
 
 <div>
    <a href="https://github.com/alissaaaa7">
@@ -15,7 +15,7 @@
  
  <br>
  
- <h1>*・°☆ Social Media*・°☆ .*</h1> 
+ <h1><i>*・°☆ Social Media*・°☆ .*</i></h1> 
  
 <div> 
   <a href="https://instagram.com/lisbatata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

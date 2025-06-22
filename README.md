@@ -1,6 +1,6 @@
-<center><h2>‧͙⁺.｡*ﾟ+.*.｡･༓☾ statistics ☽༓･.｡*ﾟ+.*.｡⁺‧͙</h2></center>
+<center><h2>‧͙⁺.｡*ﾟ+.*.｡･༓ statistics ༓･.｡*ﾟ+.*.｡⁺‧͙</h2></center>
 
-<p> <b> Hey guys! I’m Alissa! I’ve got a tech background and I’ve been playing around with some front-end projects lately!</b> </p>
+<p> <b> Hey guys! I’m Alissa! I’ve got a tech background and I’ve been playing around with some front-end projects lately! (づ｡◕‿‿◕｡)づ</b> </p>
 
 
 

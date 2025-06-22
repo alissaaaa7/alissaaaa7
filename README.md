@@ -1,4 +1,11 @@
-<center><h2><i>‧͙⁺.｡*ﾟ+.*.｡･༓☾ statistics ☽༓･.｡*ﾟ+.*.｡⁺‧͙</i></h2></center>
+<center><h2>‧͙⁺.｡*ﾟ+.*.｡･༓☾ statistics ☽༓･.｡*ﾟ+.*.｡⁺‧͙</h2></center>
+
+<p> Hey guys! I’m Alissa! I’ve got a tech background and I’ve been playing around with some front-end projects lately! </p>
+
+
+
+
+
 
 <div>
    <a href="https://github.com/alissaaaa7">
